@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-anand-code" alt="akshay-anand-code" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/akshay__anand__" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/akshay__anand__?logo=twitter&style=for-the-badge" alt="https://twitter.com/akshay__anand__" /></a> </p>
+<p align="left"> <a href="akshay__anand__" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/akshay__anand__?logo=twitter&style=for-the-badge" alt="https://twitter.com/akshay__anand__" /></a> </p>
 
 - 🔭 I’m currently working on [Open-Source Project Anki-Android](https://github.com/ankidroid/Anki-Android)
 
